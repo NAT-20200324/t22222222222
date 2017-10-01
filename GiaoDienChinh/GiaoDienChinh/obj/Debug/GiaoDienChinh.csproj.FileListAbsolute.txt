@@ -1,0 +1,10 @@
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\bin\Debug\GiaoDienChinh.exe.config
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\bin\Debug\GiaoDienChinh.exe
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\bin\Debug\GiaoDienChinh.pdb
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.csprojResolveAssemblyReference.cache
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.Form1.resources
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.Properties.Resources.resources
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.csproj.GenerateResource.Cache
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.exe
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.pdb
+D:\Tin Hoc\LapTrinhGiaoDien\GiaoDienChinh\GiaoDienChinh\obj\Debug\GiaoDienChinh.GDDangKy.resources

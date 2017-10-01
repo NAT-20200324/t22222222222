@@ -1,0 +1,9 @@
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\bin\Debug\Test-SQL.exe.config
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\obj\Debug\Test-SQL.csprojResolveAssemblyReference.cache
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\obj\Debug\Test_SQL.Form1.resources
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\obj\Debug\Test_SQL.Properties.Resources.resources
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\obj\Debug\Test-SQL.csproj.GenerateResource.Cache
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\bin\Debug\Test-SQL.exe
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\bin\Debug\Test-SQL.pdb
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\obj\Debug\Test-SQL.exe
+D:\Tin Hoc\LapTrinhGiaoDien\Test-SQL\Test-SQL\obj\Debug\Test-SQL.pdb
